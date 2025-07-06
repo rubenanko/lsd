@@ -1,5 +1,5 @@
 {
-    "/" : {"style": "background", "color": "white"},
+    "/" : {"style": "background", "color": "purple"},
     ".go": { "style": "bold", "color": "blue"},
     ".json": { "style": "regular", "color": "yellow"},
     ".py": { "style": "bold", "color": "yellow"},
@@ -13,5 +13,17 @@
     ".conf": { "style": "bold", "color": "black"},
     ".c": { "style": "bold", "color": "blue"},
     ".cpp": { "style": "bold", "color": "blue"},
-    ".ts": { "style": "bold", "color": "blue"}
+    ".ts": { "style": "bold", "color": "blue"},
+    ".png": { "style": "regular", "color": "cyan"},
+    ".jpg": { "style": "regular", "color": "cyan"},
+    ".jpeg": { "style": "regular", "color": "cyan"},
+    ".webp": { "style": "regular", "color": "cyan"},
+    ".mp4": { "style": "regular", "color": "red"},
+    ".mp3": { "style": "regular", "color": "purple"},
+    ".gitignore": { "style": "regular", "color": "purple"},
+    ".bashrc": { "style": "regular", "color": "purple"},
+    ".bash_history": { "style": "regular", "color": "purple"},
+    ".bash_profile": { "style": "regular", "color": "purple"},
+    ".vimrc": { "style": "regular", "color": "purple"},
+    ".pdf": { "style": "regular", "color": "red"}
 }
