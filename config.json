@@ -1,0 +1,17 @@
+{
+    "/" : {"style": "background", "color": "white"},
+    ".go": { "style": "bold", "color": "blue"},
+    ".json": { "style": "regular", "color": "yellow"},
+    ".py": { "style": "bold", "color": "yellow"},
+    ".rs": { "style": "bold", "color": "red"},
+    ".js": { "style": "bold", "color": "yellow"},
+    ".html": { "style": "regular", "color": "red"},
+    ".css": { "style": "regular", "color": "blue"},
+    ".scss": { "style": "regular", "color": "blue"},
+    ".yml": { "style": "bold", "color": "red"},
+    ".sh": { "style": "bold", "color": "green"},
+    ".conf": { "style": "bold", "color": "black"},
+    ".c": { "style": "bold", "color": "blue"},
+    ".cpp": { "style": "bold", "color": "blue"},
+    ".ts": { "style": "bold", "color": "blue"}
+}
